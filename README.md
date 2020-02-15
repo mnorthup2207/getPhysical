@@ -12,4 +12,4 @@
 ![image](public/img/dashboard.png)
 
 ## Link to Deployed Project
-https://arcane-badlands-04919.herokuapp.com/?id=5e4818272df1e0001713bcc9
+https://arcane-badlands-04919.herokuapp.com/
